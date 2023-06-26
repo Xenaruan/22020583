@@ -15,10 +15,10 @@ When distance is detected < 60, the ball in Touchdesigner starts to interact.
 <br>
 <br>
 二：
-设计Touchdesigner
+design Touchdesigner
+<br>
 
-
-<img width="400" alt="TD3" src="https://github.com/Xenaruan/22020583/assets/116006841/9f684cce-c823-4b68-b5f3-c14b4f4cc7e8">
+<img width="600" alt="TD3" src="https://github.com/Xenaruan/22020583/assets/116006841/9f684cce-c823-4b68-b5f3-c14b4f4cc7e8">
 <img width="600" alt="TD2" src="https://github.com/Xenaruan/22020583/assets/116006841/264e7a14-c94a-4b76-b63b-e7ed84224e68">
 <img width="600" alt="td1" src="https://github.com/Xenaruan/22020583/assets/116006841/98dbfd3d-5bba-43a3-ba47-dba0bce6445a">
 
@@ -54,12 +54,8 @@ https://github.com/Xenaruan/22020583/assets/116006841/6a004275-80d3-4969-80a3-ea
 <b>Ultrasonic sensor welding success</b>
 <br>
 
-![solder111](https://github.com/Xenaruan/22020583/assets/116006841/d715584e-53b6-4775-9bb2-02a658b5daa8)
-
-![solder1](https://github.com/Xenaruan/22020583/assets/116006841/a8c3d208-73ca-4985-b250-19d8acf228fe)
-
 <img width="600" alt="td1" src="https://github.com/Xenaruan/22020583/assets/116006841/d715584e-53b6-4775-9bb2-02a658b5daa8">
-
+<img width="600" alt="td1" src="https://github.com/Xenaruan/22020583/assets/116006841/a8c3d208-73ca-4985-b250-19d8acf228fe">
 <b>LED Lamp distance test video<b>
 
 https://github.com/Xenaruan/22020583/assets/116006841/40e3d56c-1f1b-4460-89e4-384a96ee92e2
