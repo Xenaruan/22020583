@@ -1,10 +1,7 @@
 # 22020583
 一：
 <b>Design sketches</b>
-![微信图片_20230626105205](https://github.com/Xenaruan/22020583/assets/116006841/ee7a968f-c9a6-4cec-a198-1e4ca04abe62)
-使用模块
-<img width="778" alt="monitu 2" src="https://github.com/Xenaruan/22020583/assets/116006841/65ba5f84-273a-481e-916d-e5c96b1264c6">
-
+<br>
 The design solution uses an ultrasonic sensor and Touchdesigner to generate interaction with Serial, when the ultrasonic sensor detects the distance, /1 cm is 29.15 microseconds, after sending to receiving the return wave, the sound travels 2 times the distance. The prediction divided by the actual distance is 1 cm, corresponding to 58.3 microseconds. In fact, the whole distance measurement process is measured from the time the sound wave is sent to the time the return wave is received, and the first distance in your program is actually time us.
 So to convert to distance cm, you have to divide by 58, but of course dividing by 58.3 may be more accurate. (The sensitivity of 58.3 decreases later on, so adjust to 50.2, distance = duration / 50.2.
 When distance is detected < 60, the ball in Touchdesigner starts to interact.
@@ -20,7 +17,11 @@ When distance is detected < 60, the ball in Touchdesigner starts to interact.
 
 
 
-模拟图
+<b>Sketch</b>
+<br>
+![微信图片_20230626105205](https://github.com/Xenaruan/22020583/assets/116006841/ee7a968f-c9a6-4cec-a198-1e4ca04abe62)
+<br>
+<br>
 二：
 设计Touchdesigner
 
@@ -32,24 +33,29 @@ When distance is detected < 60, the ball in Touchdesigner starts to interact.
 
 
 三：
-加入arduino
+<b>加入arduino</b>
+<br>
 1：超声波传感器
-
+<img width="778" alt="monitu 2" src="https://github.com/Xenaruan/22020583/assets/116006841/65ba5f84-273a-481e-916d-e5c96b1264c6">
 <img width="409" alt="加led小灯" src="https://github.com/Xenaruan/22020583/assets/116006841/702252b8-512c-49a5-b0b6-66496fe3664a">
 
 
 https://github.com/Xenaruan/22020583/assets/116006841/b96daae5-799c-43cb-afb0-446c96b896da
 ![GIF 2023-6-26 0-54-52](https://github.com/Xenaruan/22020583/assets/116006841/51e30098-d262-4527-b68f-acece4f81b19)
 ![GIF 2023-6-26 0-52-06](https://github.com/Xenaruan/22020583/assets/116006841/f82f513d-47b3-483d-ac4a-a1d1f13e3e63)
-//两个serial展示
-四：
-使用Serial使得超声波的数字传送到Touchdesigner
+// Two serial displays
+
+<br>
+<br>
+
+4：
+The use of Serial enables the digital transmission of ultrasound to the Touchdesigner
 ![image](https://github.com/Xenaruan/22020583/assets/116006841/d11d3b56-c2d8-4fcc-a71f-22be1d758e98)
 TD截图
 
 <img width="305" alt="微信截图_20230626010826" src="https://github.com/Xenaruan/22020583/assets/116006841/967b1aea-2eb2-4f9e-858c-3d94004b72e2">
 Arduino截图
-
+当我调试的时候发现灯泡的距离 因为Touchdesigner中/50，灵敏感应开关能感受到的距离比常规的短改短了很多 所以本身的距离会比预测的进很多。
 
 
 https://github.com/Xenaruan/22020583/assets/116006841/6a004275-80d3-4969-80a3-eabdbd122595
