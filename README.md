@@ -20,7 +20,7 @@
 https://github.com/Xenaruan/22020583/assets/116006841/b96daae5-799c-43cb-afb0-446c96b896da
 ![GIF 2023-6-26 0-54-52](https://github.com/Xenaruan/22020583/assets/116006841/51e30098-d262-4527-b68f-acece4f81b19)
 ![GIF 2023-6-26 0-52-06](https://github.com/Xenaruan/22020583/assets/116006841/f82f513d-47b3-483d-ac4a-a1d1f13e3e63)
-
+//两个serial展示
 四：
 使用Serial使得超声波的数字传送到Touchdesigner
 ![image](https://github.com/Xenaruan/22020583/assets/116006841/d11d3b56-c2d8-4fcc-a71f-22be1d758e98)
