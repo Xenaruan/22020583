@@ -16,6 +16,10 @@
 
 <img width="409" alt="加led小灯" src="https://github.com/Xenaruan/22020583/assets/116006841/702252b8-512c-49a5-b0b6-66496fe3664a">
 
+
+https://github.com/Xenaruan/22020583/assets/116006841/b96daae5-799c-43cb-afb0-446c96b896da
+
+
 四：
 使用Serial使得超声波的数字传送到Touchdesigner
 
@@ -25,6 +29,10 @@
 ![GIF 2023-6-26 0-54-52](https://github.com/Xenaruan/22020583/assets/116006841/51e30098-d262-4527-b68f-acece4f81b19)
 
 ![GIF 2023-6-26 10-56-23](https://github.com/Xenaruan/22020583/assets/116006841/a4d79c86-1bba-4225-9656-13fd7a4e3fc7)
+
+
+https://github.com/Xenaruan/22020583/assets/116006841/f0c4c5cd-0cd2-4bba-9811-9eaa122a9cc1
+
 
 
 ![image](https://github.com/Xenaruan/22020583/assets/116006841/d11d3b56-c2d8-4fcc-a71f-22be1d758e98)
