@@ -17,7 +17,7 @@ When distance is detected < 60, the ball in Touchdesigner starts to interact.
 
 
 <img width="400" alt="TD3" src="https://github.com/Xenaruan/22020583/assets/116006841/9f684cce-c823-4b68-b5f3-c14b4f4cc7e8">
-<img width="926" alt="TD2" src="https://github.com/Xenaruan/22020583/assets/116006841/264e7a14-c94a-4b76-b63b-e7ed84224e68">
+<img width="400" alt="TD2" src="https://github.com/Xenaruan/22020583/assets/116006841/264e7a14-c94a-4b76-b63b-e7ed84224e68">
 <img width="721" alt="td1" src="https://github.com/Xenaruan/22020583/assets/116006841/98dbfd3d-5bba-43a3-ba47-dba0bce6445a">
 
 
