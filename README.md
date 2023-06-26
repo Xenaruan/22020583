@@ -2,14 +2,20 @@
 一：
 设计草图
 ![微信图片_20230626105205](https://github.com/Xenaruan/22020583/assets/116006841/ee7a968f-c9a6-4cec-a198-1e4ca04abe62)
+使用模块
+<img width="778" alt="monitu 2" src="https://github.com/Xenaruan/22020583/assets/116006841/65ba5f84-273a-481e-916d-e5c96b1264c6">
 
+
+模拟图
 二：
 设计Touchdesigner
 
 三：
 加入arduino
 1：超声波传感器
-2：伺服器
+
+<img width="409" alt="加led小灯" src="https://github.com/Xenaruan/22020583/assets/116006841/702252b8-512c-49a5-b0b6-66496fe3664a">
+
 四：
 使用Serial使得超声波的数字传送到Touchdesigner
 
