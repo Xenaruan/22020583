@@ -31,6 +31,13 @@ Arduino截图
 
 
 
+https://github.com/Xenaruan/22020583/assets/116006841/6a004275-80d3-4969-80a3-eabdbd122595
+
+![solder111](https://github.com/Xenaruan/22020583/assets/116006841/d715584e-53b6-4775-9bb2-02a658b5daa8)
+
+![solder1](https://github.com/Xenaruan/22020583/assets/116006841/a8c3d208-73ca-4985-b250-19d8acf228fe)
+
+
 
 
 https://github.com/Xenaruan/22020583/assets/116006841/40e3d56c-1f1b-4460-89e4-384a96ee92e2
