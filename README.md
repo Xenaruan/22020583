@@ -1,14 +1,35 @@
 # 22020583
 一：
-设计草图
+<b>Design sketches<b>
 ![微信图片_20230626105205](https://github.com/Xenaruan/22020583/assets/116006841/ee7a968f-c9a6-4cec-a198-1e4ca04abe62)
 使用模块
 <img width="778" alt="monitu 2" src="https://github.com/Xenaruan/22020583/assets/116006841/65ba5f84-273a-481e-916d-e5c96b1264c6">
+
+The design solution uses an ultrasonic sensor and Touchdesigner to generate interaction with Serial, when the ultrasonic sensor detects the distance, /1 cm is 29.15 microseconds, after sending to receiving the return wave, the sound travels 2 times the distance. The prediction divided by the actual distance is 1 cm, corresponding to 58.3 microseconds. In fact, the whole distance measurement process is measured from the time the sound wave is sent to the time the return wave is received, and the first distance in your program is actually time us.
+So to convert to distance cm, you have to divide by 58, but of course dividing by 58.3 may be more accurate. (The sensitivity of 58.3 decreases later on, so adjust to 50.2, distance = duration / 50.2.
+When distance is detected < 60, the ball in Touchdesigner starts to interact.
+
+
+
+
+
+我的问题：
+第一点：当我调试的时候发现灯泡的距离 因为Touchdesigner中/50，灵敏感应开关能感受到的距离比常规的短改短了很多 所以本身的距离会比预测的进很多。
+第二点：
+
+
 
 
 模拟图
 二：
 设计Touchdesigner
+
+
+<img width="816" alt="TD3" src="https://github.com/Xenaruan/22020583/assets/116006841/9f684cce-c823-4b68-b5f3-c14b4f4cc7e8">
+<img width="926" alt="TD2" src="https://github.com/Xenaruan/22020583/assets/116006841/264e7a14-c94a-4b76-b63b-e7ed84224e68">
+<img width="721" alt="td1" src="https://github.com/Xenaruan/22020583/assets/116006841/98dbfd3d-5bba-43a3-ba47-dba0bce6445a">
+
+
 
 三：
 加入arduino
@@ -39,10 +60,11 @@ https://github.com/Xenaruan/22020583/assets/116006841/6a004275-80d3-4969-80a3-ea
 
 
 
+<b>LED Lamp distance test video<b>
 
 https://github.com/Xenaruan/22020583/assets/116006841/40e3d56c-1f1b-4460-89e4-384a96ee92e2
 
-灯泡距离测试视频
+
 
 
 
