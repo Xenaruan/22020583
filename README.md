@@ -7,16 +7,6 @@ So to convert to distance cm, you have to divide by 58, but of course dividing b
 When distance is detected < 60, the ball in Touchdesigner starts to interact.
 
 
-
-
-
-我的问题：
-第一点：当我调试的时候发现灯泡的距离 因为Touchdesigner中/50，灵敏感应开关能感受到的距离比常规的短改短了很多 所以本身的距离会比预测的进很多。
-第二点：
-
-
-
-
 <b>Sketch</b>
 <br>
 ![微信图片_20230626105205](https://github.com/Xenaruan/22020583/assets/116006841/ee7a968f-c9a6-4cec-a198-1e4ca04abe62)
@@ -54,8 +44,8 @@ The use of Serial enables the digital transmission of ultrasound to the Touchdes
 TD截图
 
 <img width="305" alt="微信截图_20230626010826" src="https://github.com/Xenaruan/22020583/assets/116006841/967b1aea-2eb2-4f9e-858c-3d94004b72e2">
-Arduino截图
-当我调试的时候发现灯泡的距离 因为Touchdesigner中/50，灵敏感应开关能感受到的距离比常规的短改短了很多 所以本身的距离会比预测的进很多。
+Arduino screenshot
+When I was debugging I found that the distance of the bulb was much shorter than predicted because the distance sensed by the sensitive sensor switch in Touchdesigner /50 is much shorter than the regular short change so the distance itself will be much further than predicted.
 
 
 https://github.com/Xenaruan/22020583/assets/116006841/6a004275-80d3-4969-80a3-eabdbd122595
@@ -75,10 +65,9 @@ https://github.com/Xenaruan/22020583/assets/116006841/40e3d56c-1f1b-4460-89e4-38
 
 
 
-五：
-最后成果
 
-
+<b>Final results</b>
+<br>
 
 ![GIF 2023-6-26 10-56-23](https://github.com/Xenaruan/22020583/assets/116006841/a4d79c86-1bba-4225-9656-13fd7a4e3fc7)
 
