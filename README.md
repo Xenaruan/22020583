@@ -49,6 +49,8 @@ When I was debugging I found that the distance of the bulb was much shorter than
 
 
 https://github.com/Xenaruan/22020583/assets/116006841/6a004275-80d3-4969-80a3-eabdbd122595
+<b>Ultrasonic sensor welding success</b>
+<br>
 
 ![solder111](https://github.com/Xenaruan/22020583/assets/116006841/d715584e-53b6-4775-9bb2-02a658b5daa8)
 
